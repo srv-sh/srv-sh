@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @srv-sh
 - 👀 I’m interested in data-science, machine learning & AI
-- 🌱 I’m currently learning nutural language processing.
+- 🌱 I’m currently learning generative adversarial network (GAN)
